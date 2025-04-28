@@ -1,2 +1,2 @@
 ## Weather Application Using Django
----
+
